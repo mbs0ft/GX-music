@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# <img src="https://github.com/mbs0ft/GX-music/raw/master/logo.png" title="GX Music" height="30px "width="30px">GX Music background extension
-=======
-# GX Music background extension
->>>>>>> parent of 5590808 (Update README.md)
+# <img src="[https://github.com/mbs0ft/GX-music/raw/master/logo.png](https://raw.githubusercontent.com/mbs0ft/GX-music/1d5ada05b65e8948f68b15b042ae053e053a8e83/logo.png)" title="GX Music" height="30px "width="30px">GX Music background extension
+
 ### In development
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mbs0ft/GX-music)
