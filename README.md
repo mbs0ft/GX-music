@@ -1,4 +1,4 @@
-# <img src="[https://github.com/mbs0ft/GX-music/raw/master/logo.png](https://raw.githubusercontent.com/mbs0ft/GX-music/1d5ada05b65e8948f68b15b042ae053e053a8e83/logo.png)" title="GX Music" height="30px "width="30px">GX Music background extension
+#![GX Music](https://github.com/mbs0ft/GX-Music/blob/main/logo75px.png?raw=true) GX Music background extension 
 
 ### In development
 
