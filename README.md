@@ -12,6 +12,7 @@ to listen to background music from Opera GX.
 
 ## Todo
 - Somehow make adaptive sounds (more sounds from typing and clicking)
+- Volume slider
 - Make more beautiful popup
 - Chrome and Edge add-ons?
 
