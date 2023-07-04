@@ -1,0 +1,17 @@
+{
+  "name": "GX Music",
+  "version": "0.0.1",
+  "description": "GX Browser background music.",
+	"browser_action": {
+		"default_title": "GX Music",
+		"default_popup": "popout.html"
+	},
+  "icons": {
+    "128": "logo.png"
+},
+  "background":{
+    "page": "background.html",
+    "persistent": true
+  },
+  "manifest_version": 2
+}
