@@ -1,11 +1,12 @@
 # ![GX Music](https://github.com/mbs0ft/GX-Music/blob/main/logo75px.png?raw=true) GX Music background extension 
 
-### In development
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mbs0ft/GX-music)
 
 GX Music is an extension for Chromium browsers that allows you 
 to listen to background music from Opera GX.
+
+### In development
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mbs0ft/GX-music)
 
 # Features
 - Ambient music from Opera GX, ofc
