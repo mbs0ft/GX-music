@@ -1,4 +1,4 @@
-# <img src="https://github.com/openvk/openvk/raw/master/logo.png" title="GX Music" height="30px "width="30px">GX Music background extension
+# <img src="https://github.com/mbs0ft/GX-music/raw/master/logo.png" title="GX Music" height="30px "width="30px">GX Music background extension
 ### In development
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mbs0ft/GX-music)
