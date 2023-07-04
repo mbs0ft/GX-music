@@ -1,4 +1,4 @@
-# ![GX Music](https://github.com/mbs0ft/GX-Music/blob/main/logo75px.png?raw=true) GX Music background extension 
+# ![GX Music](https://github.com/mbs0ft/GX-Music/blob/main/logo_sm.png?raw=true) GX Music background extension 
 
 
 GX Music is an extension for Chromium browsers that allows you 
