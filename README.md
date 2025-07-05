@@ -12,6 +12,8 @@ to listen to background music from Opera GX.
 - Ambient music from Opera GX, ofc
 - Works on all tabs
 
+https://github.com/user-attachments/assets/6016d69f-626b-4408-bf21-aa969a5a153d
+
 ## Todo
 - Somehow make adaptive sounds (more sounds from typing and clicking)
 - Make more beautiful popup window
