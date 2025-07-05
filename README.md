@@ -10,7 +10,7 @@ to listen to background music from Opera GX.
 
 # Features
 - Ambient music from Opera GX, ofc
-- Lightweight
+- Works on all tabs
 
 ## Todo
 - Somehow make adaptive sounds (more sounds from typing and clicking)
@@ -20,6 +20,8 @@ to listen to background music from Opera GX.
 
 ## Installation
 
-You need to enable Developer mode in Google Chrome
+Enable Developer mode in Google Chrome / MS Edge / Other browser
 
-Download and unpack .zip, then click 'Load Unpacked'.
+Download repository and unpack .zip, then click 'Load Unpacked'.
+
+For Firefox, install it from here: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/gx-music/) (unavailable for now)
