@@ -28,5 +28,7 @@ For Firefox, install it from here: [Firefox Add-ons](https://addons.mozilla.org/
 ## Disclaimer
 
 The Opera GX logo belongs to Opera Norway
+
 All the music in the extension belongs to the authors:
+
 [NUYA](https://www.instagram.com/nuya.1/) - Seismic Souls, Audience Award of GX Composer Awards 2020
