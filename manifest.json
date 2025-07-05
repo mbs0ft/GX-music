@@ -1,17 +1,31 @@
 {
+  "manifest_version": 2,
   "name": "GX Music",
-  "version": "0.0.1",
-  "description": "GX Browser background music.",
-	"browser_action": {
-		"default_title": "GX Music",
-		"default_popup": "popout.html"
-	},
-  "icons": {
-    "128": "logo.png"
-},
-  "background":{
-    "page": "background.html",
+  "version": "1.0",
+  "description": "GX Music makes your browser more epic",
+  "background": {
+    "scripts": ["background.js"],
     "persistent": true
   },
-  "manifest_version": 2
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "res/4_1.ogg",
+    "res/4_2.ogg",
+    "res/4_3.ogg",
+    "res/4_4.ogg",
+    "res/4_5.ogg"
+  ],
+  "permissions": ["tabs", "activeTab"],
+  "browser_action": {
+    "default_title": "GX Music",
+    "default_popup": "popout.html"
+  },
+  "icons": {
+    "128": "logo.png"
+  }
 }
